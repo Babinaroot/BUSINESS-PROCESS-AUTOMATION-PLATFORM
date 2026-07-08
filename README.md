@@ -131,8 +131,8 @@ flowforge/
 Key environment variables (see `application.yml` for the full list):
 
 ```yaml
-DB_URL: jdbc:postgresql://localhost:5432/flowforge
-DB_USERNAME: flowforge
+DB_URL: jdbc:postgresql://localhost:5432/bpap
+DB_USERNAME: bpap
 DB_PASSWORD: ${DB_PASSWORD}
 KAFKA_BOOTSTRAP_SERVERS: localhost:9092
 JWT_SECRET: ${JWT_SECRET}
