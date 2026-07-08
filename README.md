@@ -1,4 +1,4 @@
-# FlowForge
+# Business process Automation Platform
 
 **Enterprise-grade business process automation platform built on Java & Spring Boot.**
 
@@ -164,6 +164,6 @@ Full OpenAPI spec available at `/v3/api-docs` once running.
 
 Contributions are welcome. Please open an issue to discuss significant changes before submitting a PR. See `CONTRIBUTING.md` for coding standards and commit conventions.
 
-## License
+## MIT
 
 Licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
