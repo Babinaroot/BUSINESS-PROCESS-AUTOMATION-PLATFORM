@@ -2,10 +2,9 @@
 
 **Enterprise-grade business process automation platform built on Java & Spring Boot.**
 
-FlowForge lets teams design, run, and monitor multi-step business workflows — approvals, onboarding, procurement, claims processing — without hand-rolling state machines for every use case. It combines a BPMN-compliant workflow engine, a pluggable rules engine, and first-class integrations into a single self-hostable platform.
+Business Process Automation Platform lets teams design, run, and monitor multi-step business workflows — approvals, onboarding, procurement, claims processing — without hand-rolling state machines for every use case. It combines a BPMN-compliant workflow engine, a pluggable rules engine, and first-class integrations into a single self-hostable platform.
 
-> Replace `FlowForge` above with your actual project name, and swap this tagline for your own positioning once the product direction is locked in.
-
+>Status: Early development - core workflow engine in progress
 ---
 
 ## Table of Contents
