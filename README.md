@@ -9,7 +9,7 @@ Business Process Automation Platform lets teams design, run, and monitor multi-s
 
 ## Table of Contents
 
-- [Why FlowForge](#why-flowforge)
+- [Why Business Process Automation Platform](#why-business process automation platform)
 - [Key Features](#key-features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
@@ -23,9 +23,9 @@ Business Process Automation Platform lets teams design, run, and monitor multi-s
 
 ---
 
-## Why FlowForge
+## Why Business Process Automation Platform
 
-Most teams end up scattering business logic across cron jobs, if/else chains, and ad-hoc status columns. FlowForge centralizes that logic into versioned, auditable process definitions — so a "process" (an approval chain, a claims pipeline, an employee onboarding flow) is a first-class object you can design, test, deploy, and monitor like code.
+Most teams end up scattering business logic across cron jobs, if/else chains, and ad-hoc status columns. Business process automation platform centralizes that logic into versioned, auditable process definitions — so a "process" (an approval chain, a claims pipeline, an employee onboarding flow) is a first-class object you can design, test, deploy, and monitor like code.
 
 ## Key Features
 
@@ -114,13 +114,13 @@ docker run -p 8080:8080 flowforge
 
 ```
 flowforge/
-├── flowforge-engine/        # Core workflow execution engine
-├── flowforge-rules/         # Rules/decision engine module
-├── flowforge-tasks/         # Task & approval management service
-├── flowforge-integrations/  # REST/DB/messaging connectors
-├── flowforge-analytics/     # Metrics, dashboards, reporting
-├── flowforge-api/           # Public REST API gateway
-├── flowforge-common/        # Shared DTOs, utils, exceptions
+├── bpap-engine/        # Core workflow execution engine
+├── bpap-rules/         # Rules/decision engine module
+├── bpap-tasks/         # Task & approval management service
+├── bpap-integrations/  # REST/DB/messaging connectors
+├── bpap-analytics/     # Metrics, dashboards, reporting
+├── bpap-api/           # Public REST API gateway
+├── bpap-common/        # Shared DTOs, utils, exceptions
 ├── docs/                    # Architecture docs, ADRs, diagrams
 ├── docker-compose.yml
 └── pom.xml
