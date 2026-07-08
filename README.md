@@ -9,7 +9,7 @@ Business Process Automation Platform lets teams design, run, and monitor multi-s
 
 ## Table of Contents
 
-- [Why Business Process Automation Platform](#why-business process automation platform)
+- [Why bpap](#why-bpap)
 - [Key Features](#key-features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
